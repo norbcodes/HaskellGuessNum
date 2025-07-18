@@ -5,4 +5,4 @@ Today I started learning Haskell out of pure boredom, and this is my first progr
 Do whatever the hell you want with it.
 </p>
 
-<img src="./walter.png" alt="Walter the dawg" style="height:300px;width=-1px" />
+<img src="./walter.png" alt="Walter the dawg" style="height:450px;width=-1px" />
